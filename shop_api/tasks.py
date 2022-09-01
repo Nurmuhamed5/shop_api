@@ -19,7 +19,7 @@ def send_beat_email():
         send_mail(
             'Spam spam spam',
             'This is spam',
-            'ksenia',
+            'Nurmuhamed',
             'nurmuhamed3222@gmail.com',
             [],
             fail_silently=False
